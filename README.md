@@ -9,7 +9,7 @@ Para desenvolvimento mobile, tenho conhecimento intermediário em React Native, 
 
 <div align="center" style="width: 100%">
   <div style="display: flex; align-items: center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=joaoalen98&show_icons=true&theme=tokyonight"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalen98&theme=tokyonight&layout=compact" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=joaoalen98&show_icons=true&theme=tokyonight"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalen98&theme=tokyonight&layout=compact" />
   </div>
 </div>
