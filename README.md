@@ -11,8 +11,8 @@
 
 <h2>Sobre mim</h2>
 <ul>
-    <li> Estudando de C# .NET: ASP.NET, WepApi, Blazor, Entity Framework; </li>
-    <li> Interesse em: HTML, CSS Javascript/Typescript, C#, .NET, React e Flutter;</li>
+    <li> Estudando C#: ASP.NET, WepApi, Blazor, Entity Framework; </li>
+    <li> Interesse em: HTML, CSS Javascript/Typescript, React e Flutter;</li>
 </ul>
 
 <br>
@@ -25,10 +25,6 @@
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
-        alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="">
 </div>
 
 <br>
