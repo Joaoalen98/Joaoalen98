@@ -24,7 +24,6 @@
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt="">
 </div>
 
 <br>
