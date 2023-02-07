@@ -11,7 +11,7 @@
 
 <h2>Sobre mim</h2>
 <ul>
-    <li> Cursando Análise e Desenvolvimento de Sistemas (2/5 semestre), na Faculdade Impacta; </li>
+    <li> Cursando Análise e Desenvolvimento de Sistemas (3/5 semestre), na Faculdade Impacta; </li>
     <li> Estudando C#: ASP.NET CORE (WepApi, Mvc), Windows Forms, Blazor, Entity Framework; </li>
     <li> Interesse em: HTML, CSS Javascript/Typescript, Angular e Flutter;</li>
 </ul>
