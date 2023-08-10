@@ -25,6 +25,7 @@
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="">
 </div>
 
 <br>
@@ -39,7 +40,7 @@
     </a>
     <a href="mailto:joao.alencar1497@gmail.com">
         <img height="30"
-            src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao.alencar1497@gmail.com"
+            src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao.alencar19982@gmail.com"
             alt="">
     </a>
 </div>
