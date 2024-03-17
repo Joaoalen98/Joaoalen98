@@ -12,8 +12,8 @@
 <h2>Back End</h2>
 
 <div>
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
 </div>
 
 <br>
@@ -21,7 +21,7 @@
 <h2>Front end</h2>
 
 <div>
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
 </div>
 
 <br>
