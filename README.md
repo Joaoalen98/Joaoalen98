@@ -11,9 +11,9 @@
 
 <h2>Sobre mim</h2>
 <ul>
-    <li> Cursando Análise e Desenvolvimento de Sistemas (3/5 semestre), na Faculdade Impacta; </li>
-    <li> Estudando C#: ASP.NET CORE (WepApi, Mvc), Windows Forms, Blazor, Entity Framework; </li>
-    <li> Interesse em: HTML, CSS Javascript/Typescript, Angular e Flutter;</li>
+    <li> Cursando Análise e Desenvolvimento de Sistemas (5/5 semestre), na Faculdade Impacta; </li>
+    <li> Meus estudos são focados em Back-End (C#/.NET, Java/Spring); </li>
+    <li> No front-end, gosto de trabalhar com Angular </li>
 </ul>
 
 <br>
@@ -21,10 +21,8 @@
 <h2>Minhas Skills</h2>
 
 <div align="center">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
     <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="">
 </div>
 
