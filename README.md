@@ -9,24 +9,13 @@
 
 <br>
 
-<h2>Back End</h2>
-
 <div>
     <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
     <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
-</div>
-
-<br>
-
-<h2>Front end</h2>
-
-<div>
     <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
 </div>
 
 <br>
-
-<h2>Contact</h2>
 
 <div>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-a-a6588b129/">
