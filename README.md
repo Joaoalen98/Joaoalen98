@@ -1,7 +1,8 @@
 <h1>Hello, I'm João Alencar</h1>
+<h4>Back end developer</h4>
 
 <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Joaoalen98&theme=tokyonight" alt="">
+   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Joaoalen98&theme=tokyonight" alt="">
     <img height="150"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoalen98&layout=compact&theme=tokyonight"
         alt="">
@@ -10,9 +11,11 @@
 <br>
 
 <div>
-    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
-    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
-    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="">
+    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
 </div>
 
 <br>
