@@ -23,7 +23,7 @@
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/"
             alt="">
     </a>
-    <a href="mailto:joao.alencar1497@gmail.com">
+    <a href="mailto:joao.alencar19982@gmail.com">
         <img height="30"
             src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao.alencar19982@gmail.com"
             alt="">
