@@ -11,11 +11,11 @@
 <br>
 
 <div>
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="">
+    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
 </div>
 
 <br>
