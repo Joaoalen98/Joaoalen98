@@ -12,7 +12,6 @@
 
 <div>
     <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="">
-    <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="">
     <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="">
 </div>
 
